@@ -150,9 +150,9 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="Rust">
         <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/intellij-rust/lldb" />
         </configuration>
       </debugger>
     </debuggers>
